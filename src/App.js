@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -18,6 +18,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <p>
+        Resource:
+        https://www.geeksforgeeks.org/how-to-deploy-your-react-websites-on-github/
+      </p>
     </div>
   );
 }
